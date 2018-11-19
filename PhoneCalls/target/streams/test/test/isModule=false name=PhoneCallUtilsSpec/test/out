@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPhoneCallUtilsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPhoneCallUtils#parsePhoneCall[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the expected result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPhoneCallUtils#calculateCostsPerCall[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the expected result[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPhoneCallUtils#applyPromotion[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the expected result[0m[0m
